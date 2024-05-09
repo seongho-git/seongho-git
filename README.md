@@ -4,7 +4,7 @@
 </a>
 
 <a href="https://github.com/seongho-git">
-    <img src="https://github-stats-alpha.vercel.app/api?username=seongho-git&cc=228BF7&tc=37BCF6&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=seongho-git&cc=22272e&tc=228BF7&ic=fff&bc=0000">
 </a>
 
 ### Hi there 👋
