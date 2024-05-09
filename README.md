@@ -3,6 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&duration=1700&pause=100&color=228BF7&multiline=true&random=false&width=500&height=100&lines=SeongHo+Kim;Compiler+Engineer+%7C+BS+%26+MS+%26+PhD;Yonsei+University" alt="Typing SVG" />
 </a>
 
+<a href="https://github.com/seongho-git">
+    <img src="https://github-stats-alpha.vercel.app/api?username=seongho-git&cc=228BF7&tc=37BCF6&ic=fff&bc=0000">
+</a>
+
 ### Hi there 👋
 
 Here are some ideas to get you started:
