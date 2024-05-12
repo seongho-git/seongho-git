@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&duration=1700&pause=100&color=228BF7&multiline=true&random=false&width=500&height=100&lines=SeongHo+Kim;Compiler+Engineer+%7C+BS+%26+MS+%26+PhD;Yonsei+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&duration=1700&pause=100&color=228BF7&multiline=true&repeat=false&random=false&width=500&height=100&lines=SeongHo+Kim;Undergraduate+%7C+BS+%26+MS+%26+PhD;Interests+%3A+Compiler%2C+LLM" alt="Typing SVG" />
 </a>
 
 <a href="https://github.com/seongho-git">
