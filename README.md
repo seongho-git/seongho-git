@@ -14,3 +14,4 @@
 
 1. [Survey and Evaluation of Converging Architecture in LLMs based on Footsteps of Operations (2024. Oct)](https://arxiv.org/abs/2410.11381) <br>
     <sub> Seongho Kim, Jihyun Moon, Juntaek Oh, Insu Choi, Joon-Sung Yang </sub>
+    [Presentation](https://www.youtube.com/watch?v=znFFq2Y0Fmo)
