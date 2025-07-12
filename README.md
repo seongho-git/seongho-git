@@ -2,8 +2,7 @@
 # Seongho Kim
 Master's Student in Integrated B.S./M.S./Ph.D. Program
 
-Homepage: [https://github.com/seongho-git/seongho-git.github.io.git](https://github.com/seongho-git/seongho-git.github.io.git)
-
+Homepage: [https://seongho-git.github.io/](https://seongho-git.github.io/)
 ### 🔬 Research Interests
 - Compiler Optimization for Deep Learning and Homomorphic Encryption
 - Large Language Model Acceleration
