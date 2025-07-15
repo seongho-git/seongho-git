@@ -17,14 +17,18 @@ Homepage: [https://seongho-git.github.io/](https://seongho-git.github.io/)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ## 📄 Publications
-1. [Survey and Evaluation of Converging Architecture in LLMs based on Footsteps of Operations]() </br>
-<sub> IEEE OJCS, IF=**8.2**, Q1 (JCR 2025) </sub> </br>
+1. [Survey and Evaluation of Converging Architecture in LLMs based on Footsteps of Operations](https://doi.org/10.1109/OJCS.2025.3587005) </br>
+<sub> IEEE Open Journal of the Computer Society, July 2025, IF=**8.2**, Q1 (JCR 2024) </sub> </br>
 <sub> [Presentation Link](https://www.youtube.com/watch?v=znFFq2Y0Fmo) </sub> </br> 
 
 ```bibtex
-@article{kim_survey_2025,
-  title={Survey and Evaluation of Converging Architecture in LLMs based on Footsteps of Operations},
+@ARTICLE{11072851,
   author={Kim, Seongho and Moon, Jihyun and Oh, Juntaek and Choi, Insu and Yang, Joon-Sung},
-  journal={IEEE Open Journal of the Computer Society},
-  year={2025}
-}
+  journal={IEEE Open Journal of the Computer Society}, 
+  title={Survey and Evaluation of Converging Architecture in LLMs based on Footsteps of Operations}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/OJCS.2025.3587005}}
+
